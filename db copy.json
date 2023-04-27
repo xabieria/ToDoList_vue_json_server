@@ -1,0 +1,22 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Ir al super",
+      "descripcion": "Comprar viveres",
+      "quien": "Maria"
+    },
+    {
+      "id": 2,
+      "titulo": "Dentista",
+      "descripcion": "Cita a las 4pm",
+      "quien": "Jon"
+    },
+    {
+      "titulo": "Ir al parque",
+      "descripcion": "La arboleda",
+      "quien": "4:40",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tareas": [
+    {
+      "titulo": "Ir al mercado",
+      "descripcion": "Comprar verduras y frutas",
+      "hora": "2023-04-18",
+      "id": 1
+    },
+    {
+      "titulo": "Dentista",
+      "descripcion": "Cita a las 4pm",
+      "hora": "2023-04-20",
+      "id": 2
+    },
+    {
+      "titulo": "Ir al cine",
+      "descripcion": "Estar en centro m",
+      "hora": "2023-04-25",
+      "id": 3
+    }
+  ]
+}
